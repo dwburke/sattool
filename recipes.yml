@@ -1,10 +1,11 @@
 ---
 - name: AI Limiter
+  id: ai-limiter
   recipes:
   - machine: 
     productionPpm: 5
     parts:
-      - name: copper sheet
+      - name: copper-sheet
         ppm: 25
       - name: quickwire
         ppm: 100
@@ -42,4 +43,6 @@
 - name: Supercomputer
 - name: Turbo Motor
 - name: Wire
-
+  id: wire
+- name: Uranium Fuel Rod
+  id: uranium-fuel-rod
