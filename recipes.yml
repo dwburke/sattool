@@ -1,0 +1,45 @@
+---
+- name: AI Limiter
+  recipes:
+  - machine: 
+    productionPpm: 5
+    parts:
+      - name: copper sheet
+        ppm: 25
+      - name: quickwire
+        ppm: 100
+- name: Alclad Aluminum Sheet
+- name: Aluminum Casing
+- name: Biomass
+- name: Cable
+- name: Circuit Board
+- name: Computer
+- name: Concrete
+- name: Cooling System
+- name: Copper Sheet
+- name: Crystal Oscillator
+- name: Electromagnetic Control Rod
+- name: Encased Industrial Beam
+- name: Fused Modular Frame
+- name: Heavy Modular Frame
+- name: High-Speed Connector
+- name: Iron Plate
+- name: Iron Rod
+- name: Modular Frame
+- name: Motor
+- name: Plastic
+- name: Quartz Crystal
+- name: Quickwire
+- name: Radio Control Unit
+- name: Reinforced Iron Plate
+- name: Rotor
+- name: Rubber
+- name: Screw
+- name: Silica
+- name: Stator
+- name: Steel Beam
+- name: Steel Pipe
+- name: Supercomputer
+- name: Turbo Motor
+- name: Wire
+
